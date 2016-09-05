@@ -1,5 +1,7 @@
 # How to track trackers
 
+![Illuminati](http://s2.dmcdn.net/TGx4-.jpg)
+
 ## Level 1
 
 Add a **social button** on your portfolio:
